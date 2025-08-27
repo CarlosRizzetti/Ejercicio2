@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    border: 2px solid #333;
+    padding: 3%;
+}
+
+
+.contenedor {
+    border: 2px solid #333;
+    margin: 5% 20%;
+    padding: 2%;
+    border-radius: 50px 0px 50px 0px;
+    background-color: #f9f9f9;
+}
+
+a {
+    justify-content: center;
+    padding: 10px;
+    font-size: large;
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    width: 60%;
+    max-height: 100px;
+    margin: 0 10% 0 20%;
+}
+
+h2 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 40px;
+    border: 2px solid #333;
+    padding: 10px;
+
+}
+
+.contenedor_lista {
+    margin: 0% 10%
+}
+
+.contenedor_subtitulo {
+    margin: 0% 5%
+}
